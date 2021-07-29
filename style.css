@@ -1,0 +1,53 @@
+/*mixed css*/
+p {
+	font-size: 18px;
+}
+i {
+	color: #E77C40;
+}
+h2 {
+	font-size: 45px;
+}
+h2 span {
+	color: #E76F51;
+}
+.honda-buttons:hover {
+	color: #fff;
+}
+.honda-bg {
+	background: #264653;
+}
+.honda-buttons {
+	background: #E76F51;
+	color: #fff;
+	padding: 10px 50px;
+}
+
+/*featurd-bike*/
+.honda-subheading-color {
+	color: #E77C40;
+}
+.grayscal {
+	filter: grayscale(100%);
+}
+
+/*feedback*/
+.name{
+	color: #23A6F0;
+}
+.honda-card-img-size {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	margin: 20px auto;
+}
+
+/*Accordion*/
+.honda-accordion {
+	border: 2px solid #D5E5FB !important;
+	padding: 7px 0;
+	margin: 30px 0;
+}
+.honda-ac-title {
+	font-size: 23px;
+}
